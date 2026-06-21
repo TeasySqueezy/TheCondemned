@@ -1,6 +1,6 @@
 # The Condemned - Session Zero
 
-// ---------------------------------------------------------------------------------------------------------
+---
 
 # Intro
 
@@ -136,7 +136,7 @@ Jeder Charakter, der am Machtkampf teilnehmen möchte, bringt sein Anliegen vor 
 Sobald alle Interessierten ihre Probe abgelegt haben, gewinnt der Charakter mit dem höchsten Ergebnis den Machtkampf. Bei einem Gleichstand wiederholen die betroffenen Charaktere die Probe so lange, bis ein eindeutiger Sieger feststeht.
 Der Gewinner des Machtkampfs entscheidet über den weiteren Verlauf und legt die Vorgehensweise fest. Jeder Verlierer erhält einen Vorteil für seinen nächsten Machtkampf: In einer Gruppe von Antihelden kann niemand lange das Sagen haben!
 
-// ---------------------------------------------------------------------------------------------------------
+---
 
 # Charakter erstellen
 
@@ -152,9 +152,7 @@ Der Gewinner des Machtkampfs entscheidet über den weiteren Verlauf und legt die
 
 ### Choose a downtime ability
 
-
-
-// ---------------------------------------------------------------------------------------------------------
+---
 
 # Abenteuer - Part 1: Secure the route
 
@@ -319,8 +317,8 @@ Sofern nicht anders angegeben, sind die Räume der Abtei 3 Felder hoch und werde
 
 ### Chapel
 
+...
 
-
-// ---------------------------------------------------------------------------------------------------------
+---
 
 ...
